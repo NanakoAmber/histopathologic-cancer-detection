@@ -36,31 +36,4 @@ This project uses a Convolutional Neural Network (CNN) to detect metastatic canc
 JinchenYu61
 ```
 
-点击 **"Commit changes"** 保存。
 
----
-
-### 步骤 6：上传排行榜截图
-
-1. 在仓库页面点击 **"Add file"** → **"Create new file"**
-
-2. 输入文件名：`images/.gitkeep`（这会创建 images 文件夹）
-
-3. 点击 **"Commit changes"**
-
-4. 进入 `images` 文件夹 → **"Add file"** → **"Upload files"**
-
-5. 上传你的截图 `leaderboard.png`
-
----
-
-### 步骤 7：获取仓库链接
-
-你的仓库链接格式为：
-```
-https://github.com/你的用户名/histopathologic-cancer-detection
-```
-
-例如：
-```
-https://github.com/JinchenYu61/histopathologic-cancer-detection
